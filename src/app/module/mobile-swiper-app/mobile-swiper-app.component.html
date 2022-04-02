@@ -1,0 +1,103 @@
+<main>
+  <div class="p-1 h-screen">
+    <swiper class="h-full" #swiperRef [navigation]="true" (swiper)="log($event)" (afterInit)="logg($event)"
+      (slideChange)="logs($event)" [slidesPerView]="1" [spaceBetween]="50" [breakpoints]="breakpoints"
+      [scrollbar]="false" [loop]="false" [pagination]="pagination"
+      (beforeTransitionStart)="beforeTransitionStart($event)">
+
+
+
+      <ng-template swiperSlide let-data *ngFor="let slide of slides; index as i">
+
+        <!-- {{ slide }} / active: {{ data.isActive }} / next: {{ data.isNext }} -->
+        <!-- {{data|json}} -->
+        <!-- {{i+1}} -->
+
+
+        <!-- <section class="p-2 grid grid-cols-4 place-content-start gap-3" id="slide-item">
+
+          <ng-container *ngFor="let it of test">
+            <div class="col-span-4 text-left">{{it.user_app_category_name}}</div>
+
+            <ng-container *ngFor="let t of it.data">
+
+
+              <div class=" h-14 bg-blue-400" *ngIf="i+1===t.parent_app">{{t.parent_app}} </div>
+            </ng-container>
+
+
+          </ng-container>
+
+
+        </section> -->
+
+
+
+
+
+        <section class="p-2 grid grid-cols-3 place-content-start gap-3" id="slide-item">
+
+          <ng-container *ngFor="let it of test">
+            <!-- <div class="col-span-4 text-left">{{it.user_app_category_name}}</div> -->
+
+            <div class=" h-14 bg-blue-400" *ngIf="i+1===it.parent_app">
+              {{it.custom_app_icon_name}}
+
+            </div>
+
+
+          </ng-container>
+
+
+        </section>
+
+
+
+      </ng-template>
+
+
+
+      <!-- <ng-template swiperSlide>
+
+        <section class="p-2 grid grid-cols-4 place-content-start gap-3" id="slide-item">
+
+          <ng-container *ngFor="let i of test">
+            <div class="col-span-4 text-left">{{i.user_app_category_name}}</div>
+
+            <ng-container *ngFor="let t of i.data">
+
+
+              <div class=" h-14 bg-blue-400">{{t.parent_app}}</div>
+            </ng-container>
+
+
+          </ng-container>
+
+
+        </section>
+
+      </ng-template>
+ -->
+      <!-- <ng-template swiperSlide>hi</ng-template>
+      <ng-template swiperSlide>hello</ng-template> -->
+      <!-- <ng-template swiperSlide>aii</ng-template>
+      <ng-template swiperSlide>aii</ng-template>
+      <ng-template swiperSlide>aii</ng-template>
+      <ng-template swiperSlide>aii</ng-template>
+      <ng-template swiperSlide>aii</ng-template> -->
+
+      <div slot="container-end" class="swiper-pagination pagination-test"></div>
+
+
+    </swiper>
+    <!-- <button (click)="slides.push('test')">Add slide</button> -->
+
+    <!-- <ng-container *ngFor="let i of apps">
+      {{i.user_app_category_name}}
+      <ng-container *ngFor="let l of  i.data">
+        {{l.custom_app_icon_name}}
+      </ng-container>
+    </ng-container> -->
+
+  </div>
+</main>
