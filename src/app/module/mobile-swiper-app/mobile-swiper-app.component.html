@@ -35,19 +35,26 @@
 
 
 
-        <section class="p-2 grid grid-cols-3 place-content-start gap-3" id="slide-item">
-
+        <section class="p-2 grid grid-cols-4  place-content-start justify-items-center gt-md:gap-3 gap-2"
+          id="slide-item">
           <ng-container *ngFor="let it of test">
             <!-- <div class="col-span-4 text-left">{{it.user_app_category_name}}</div> -->
 
-            <div class=" h-14 bg-blue-400" *ngIf="i+1===it.parent_app">
-              {{it.custom_app_icon_name}}
+            <div class="  h-[97px] p-2" *ngIf="i+1===it.parent_app">
+              <div class=" h-full flex flex-col items-center  justify-evenly "
+                style="  text-overflow: ellipsis; width: 90px;">
 
+                <div class="w-12 h-12 p-1  bg-white  rounded-md flex-shrink-0   shadow-md ">
+                  <img src="assets/icons/app.png" alt="" class=" h-full w-full">
+                </div>
+
+                <div class="text-[10px]  font-[550] p-1" style="line-height: 15px;max-height: 35px;">
+                  {{it.custom_app_icon_name|ellipsis:37}}
+                </div>
+              </div>
             </div>
 
-
           </ng-container>
-
 
         </section>
 

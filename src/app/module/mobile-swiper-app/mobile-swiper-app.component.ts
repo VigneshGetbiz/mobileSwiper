@@ -302,287 +302,287 @@ export class MobileSwiperAppComponent implements OnInit {
       "custom_app_title_bar_name": "app33",
       "custom_app_development_status": "33"
     },
-    {
-      "custom_app_id": "34",
-      "custom_app_icon_name": "app34",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app34",
-      "custom_app_title_bar_name": "app34",
-      "custom_app_development_status": "34"
-    },
-    {
-      "custom_app_id": "35",
-      "custom_app_icon_name": "app35",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app35",
-      "custom_app_title_bar_name": "app35",
-      "custom_app_development_status": "35"
-    },
-    {
-      "custom_app_id": "36",
-      "custom_app_icon_name": "app36",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app36",
-      "custom_app_title_bar_name": "app36",
-      "custom_app_development_status": "36"
-    },
-    {
-      "custom_app_id": "37",
-      "custom_app_icon_name": "app37",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app37",
-      "custom_app_title_bar_name": "app37",
-      "custom_app_development_status": "37"
-    },
-    {
-      "custom_app_id": "38",
-      "custom_app_icon_name": "app38",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app38",
-      "custom_app_title_bar_name": "app38",
-      "custom_app_development_status": "38"
-    },
-    {
-      "custom_app_id": "39",
-      "custom_app_icon_name": "app39",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app39",
-      "custom_app_title_bar_name": "app39",
-      "custom_app_development_status": "39"
-    },
-    {
-      "custom_app_id": "40",
-      "custom_app_icon_name": "app40",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app40",
-      "custom_app_title_bar_name": "app40",
-      "custom_app_development_status": "40"
-    },
+    // {
+    //   "custom_app_id": "34",
+    //   "custom_app_icon_name": "app34",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app34",
+    //   "custom_app_title_bar_name": "app34",
+    //   "custom_app_development_status": "34"
+    // },
+    // {
+    //   "custom_app_id": "35",
+    //   "custom_app_icon_name": "app35",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app35",
+    //   "custom_app_title_bar_name": "app35",
+    //   "custom_app_development_status": "35"
+    // },
+    // {
+    //   "custom_app_id": "36",
+    //   "custom_app_icon_name": "app36",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app36",
+    //   "custom_app_title_bar_name": "app36",
+    //   "custom_app_development_status": "36"
+    // },
+    // {
+    //   "custom_app_id": "37",
+    //   "custom_app_icon_name": "app37",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app37",
+    //   "custom_app_title_bar_name": "app37",
+    //   "custom_app_development_status": "37"
+    // },
+    // {
+    //   "custom_app_id": "38",
+    //   "custom_app_icon_name": "app38",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app38",
+    //   "custom_app_title_bar_name": "app38",
+    //   "custom_app_development_status": "38"
+    // },
+    // {
+    //   "custom_app_id": "39",
+    //   "custom_app_icon_name": "app39",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app39",
+    //   "custom_app_title_bar_name": "app39",
+    //   "custom_app_development_status": "39"
+    // },
+    // {
+    //   "custom_app_id": "40",
+    //   "custom_app_icon_name": "app40",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app40",
+    //   "custom_app_title_bar_name": "app40",
+    //   "custom_app_development_status": "40"
+    // },
 
-    {
-      "custom_app_id": "41",
-      "custom_app_icon_name": "app41",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app41",
-      "custom_app_title_bar_name": "app41",
-      "custom_app_development_status": "41"
-    }, {
-      "custom_app_id": "42",
-      "custom_app_icon_name": "app42",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app42",
-      "custom_app_title_bar_name": "app42",
-      "custom_app_development_status": "42"
-    }, {
-      "custom_app_id": "43",
-      "custom_app_icon_name": "app43",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app43",
-      "custom_app_title_bar_name": "app43",
-      "custom_app_development_status": "43"
-    }, {
-      "custom_app_id": "44",
-      "custom_app_icon_name": "app44",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app44",
-      "custom_app_title_bar_name": "app44",
-      "custom_app_development_status": "44"
-    }, {
-      "custom_app_id": "45",
-      "custom_app_icon_name": "app45",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app45",
-      "custom_app_title_bar_name": "app45",
-      "custom_app_development_status": "45"
-    }, {
-      "custom_app_id": "46",
-      "custom_app_icon_name": "app46",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app46",
-      "custom_app_title_bar_name": "app46",
-      "custom_app_development_status": "46"
-    }, {
-      "custom_app_id": "47",
-      "custom_app_icon_name": "app47",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app47",
-      "custom_app_title_bar_name": "app47",
-      "custom_app_development_status": "47"
-    }, {
-      "custom_app_id": "48",
-      "custom_app_icon_name": "app48",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app48",
-      "custom_app_title_bar_name": "app48",
-      "custom_app_development_status": "48"
-    }, {
-      "custom_app_id": "49",
-      "custom_app_icon_name": "app49",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app49",
-      "custom_app_title_bar_name": "app49",
-      "custom_app_development_status": "49"
-    }, {
-      "custom_app_id": "50",
-      "custom_app_icon_name": "app50",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app50",
-      "custom_app_title_bar_name": "app50",
-      "custom_app_development_status": "50"
-    },
-    {
-      "custom_app_id": "51",
-      "custom_app_icon_name": "app51",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app51",
-      "custom_app_title_bar_name": "app51",
-      "custom_app_development_status": "51"
-    },
-    {
-      "custom_app_id": "52",
-      "custom_app_icon_name": "app52",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app52",
-      "custom_app_title_bar_name": "app52",
-      "custom_app_development_status": "52"
-    },
-    {
-      "custom_app_id": "53",
-      "custom_app_icon_name": "app53",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app53",
-      "custom_app_title_bar_name": "app53",
-      "custom_app_development_status": "53"
-    },
-    {
-      "custom_app_id": "54",
-      "custom_app_icon_name": "app54",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app54",
-      "custom_app_title_bar_name": "app54",
-      "custom_app_development_status": "54"
-    },
-    {
-      "custom_app_id": "55",
-      "custom_app_icon_name": "app55",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app55",
-      "custom_app_title_bar_name": "app55",
-      "custom_app_development_status": "55"
-    },
-    {
-      "custom_app_id": "56",
-      "custom_app_icon_name": "app56",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app56",
-      "custom_app_title_bar_name": "app56",
-      "custom_app_development_status": "56"
-    },
-    {
-      "custom_app_id": "57",
-      "custom_app_icon_name": "app57",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app57",
-      "custom_app_title_bar_name": "app57",
-      "custom_app_development_status": "57"
-    },
-    {
-      "custom_app_id": "58",
-      "custom_app_icon_name": "app58",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app58",
-      "custom_app_title_bar_name": "app58",
-      "custom_app_development_status": "58"
-    },
-    {
-      "custom_app_id": "59",
-      "custom_app_icon_name": "app59",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app59",
-      "custom_app_title_bar_name": "app59",
-      "custom_app_development_status": "59"
-    },
-    {
-      "custom_app_id": "60",
-      "custom_app_icon_name": "app60",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app60",
-      "custom_app_title_bar_name": "app60",
-      "custom_app_development_status": "60"
-    },
-    {
-      "custom_app_id": "61",
-      "custom_app_icon_name": "app61",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app61",
-      "custom_app_title_bar_name": "app61",
-      "custom_app_development_status": "61"
-    },
-    {
-      "custom_app_id": "62",
-      "custom_app_icon_name": "app62",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app62",
-      "custom_app_title_bar_name": "app62",
-      "custom_app_development_status": "62"
-    }, {
-      "custom_app_id": "63",
-      "custom_app_icon_name": "app63",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app63",
-      "custom_app_title_bar_name": "app63",
-      "custom_app_development_status": "63"
-    }, {
-      "custom_app_id": "64",
-      "custom_app_icon_name": "app64",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app64",
-      "custom_app_title_bar_name": "app64",
-      "custom_app_development_status": "64"
-    }, {
-      "custom_app_id": "65",
-      "custom_app_icon_name": "app65",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app65",
-      "custom_app_title_bar_name": "app65",
-      "custom_app_development_status": "65"
-    }, {
-      "custom_app_id": "66",
-      "custom_app_icon_name": "app66",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app66",
-      "custom_app_title_bar_name": "app66",
-      "custom_app_development_status": "66"
-    }, {
-      "custom_app_id": "67",
-      "custom_app_icon_name": "app67",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app67",
-      "custom_app_title_bar_name": "app67",
-      "custom_app_development_status": "67"
-    }, {
-      "custom_app_id": "68",
-      "custom_app_icon_name": "app68",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app68",
-      "custom_app_title_bar_name": "app68",
-      "custom_app_development_status": "68"
-    }, {
-      "custom_app_id": "69",
-      "custom_app_icon_name": "app69",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app69",
-      "custom_app_title_bar_name": "app69",
-      "custom_app_development_status": "69"
-    },
-    {
-      "custom_app_id": "70",
-      "custom_app_icon_name": "app70",
-      "custom_app_icon_image": "Image File Name",
-      "custom_app_full_name": "app70",
-      "custom_app_title_bar_name": "app70",
-      "custom_app_development_status": "70"
-    },
+    // {
+    //   "custom_app_id": "41",
+    //   "custom_app_icon_name": "app41",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app41",
+    //   "custom_app_title_bar_name": "app41",
+    //   "custom_app_development_status": "41"
+    // }, {
+    //   "custom_app_id": "42",
+    //   "custom_app_icon_name": "app42",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app42",
+    //   "custom_app_title_bar_name": "app42",
+    //   "custom_app_development_status": "42"
+    // }, {
+    //   "custom_app_id": "43",
+    //   "custom_app_icon_name": "app43",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app43",
+    //   "custom_app_title_bar_name": "app43",
+    //   "custom_app_development_status": "43"
+    // }, {
+    //   "custom_app_id": "44",
+    //   "custom_app_icon_name": "app44",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app44",
+    //   "custom_app_title_bar_name": "app44",
+    //   "custom_app_development_status": "44"
+    // }, {
+    //   "custom_app_id": "45",
+    //   "custom_app_icon_name": "app45",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app45",
+    //   "custom_app_title_bar_name": "app45",
+    //   "custom_app_development_status": "45"
+    // }, {
+    //   "custom_app_id": "46",
+    //   "custom_app_icon_name": "app46",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app46",
+    //   "custom_app_title_bar_name": "app46",
+    //   "custom_app_development_status": "46"
+    // }, {
+    //   "custom_app_id": "47",
+    //   "custom_app_icon_name": "app47",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app47",
+    //   "custom_app_title_bar_name": "app47",
+    //   "custom_app_development_status": "47"
+    // }, {
+    //   "custom_app_id": "48",
+    //   "custom_app_icon_name": "app48",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app48",
+    //   "custom_app_title_bar_name": "app48",
+    //   "custom_app_development_status": "48"
+    // }, {
+    //   "custom_app_id": "49",
+    //   "custom_app_icon_name": "app49",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app49",
+    //   "custom_app_title_bar_name": "app49",
+    //   "custom_app_development_status": "49"
+    // }, {
+    //   "custom_app_id": "50",
+    //   "custom_app_icon_name": "app50",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app50",
+    //   "custom_app_title_bar_name": "app50",
+    //   "custom_app_development_status": "50"
+    // },
+    // {
+    //   "custom_app_id": "51",
+    //   "custom_app_icon_name": "app51",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app51",
+    //   "custom_app_title_bar_name": "app51",
+    //   "custom_app_development_status": "51"
+    // },
+    // {
+    //   "custom_app_id": "52",
+    //   "custom_app_icon_name": "app52",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app52",
+    //   "custom_app_title_bar_name": "app52",
+    //   "custom_app_development_status": "52"
+    // },
+    // {
+    //   "custom_app_id": "53",
+    //   "custom_app_icon_name": "app53",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app53",
+    //   "custom_app_title_bar_name": "app53",
+    //   "custom_app_development_status": "53"
+    // },
+    // {
+    //   "custom_app_id": "54",
+    //   "custom_app_icon_name": "app54",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app54",
+    //   "custom_app_title_bar_name": "app54",
+    //   "custom_app_development_status": "54"
+    // },
+    // {
+    //   "custom_app_id": "55",
+    //   "custom_app_icon_name": "app55",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app55",
+    //   "custom_app_title_bar_name": "app55",
+    //   "custom_app_development_status": "55"
+    // },
+    // {
+    //   "custom_app_id": "56",
+    //   "custom_app_icon_name": "app56",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app56",
+    //   "custom_app_title_bar_name": "app56",
+    //   "custom_app_development_status": "56"
+    // },
+    // {
+    //   "custom_app_id": "57",
+    //   "custom_app_icon_name": "app57",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app57",
+    //   "custom_app_title_bar_name": "app57",
+    //   "custom_app_development_status": "57"
+    // },
+    // {
+    //   "custom_app_id": "58",
+    //   "custom_app_icon_name": "app58",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app58",
+    //   "custom_app_title_bar_name": "app58",
+    //   "custom_app_development_status": "58"
+    // },
+    // {
+    //   "custom_app_id": "59",
+    //   "custom_app_icon_name": "app59",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app59",
+    //   "custom_app_title_bar_name": "app59",
+    //   "custom_app_development_status": "59"
+    // },
+    // {
+    //   "custom_app_id": "60",
+    //   "custom_app_icon_name": "app60",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app60",
+    //   "custom_app_title_bar_name": "app60",
+    //   "custom_app_development_status": "60"
+    // },
+    // {
+    //   "custom_app_id": "61",
+    //   "custom_app_icon_name": "app61",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app61",
+    //   "custom_app_title_bar_name": "app61",
+    //   "custom_app_development_status": "61"
+    // },
+    // {
+    //   "custom_app_id": "62",
+    //   "custom_app_icon_name": "app62",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app62",
+    //   "custom_app_title_bar_name": "app62",
+    //   "custom_app_development_status": "62"
+    // }, {
+    //   "custom_app_id": "63",
+    //   "custom_app_icon_name": "app63",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app63",
+    //   "custom_app_title_bar_name": "app63",
+    //   "custom_app_development_status": "63"
+    // }, {
+    //   "custom_app_id": "64",
+    //   "custom_app_icon_name": "app64",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app64",
+    //   "custom_app_title_bar_name": "app64",
+    //   "custom_app_development_status": "64"
+    // }, {
+    //   "custom_app_id": "65",
+    //   "custom_app_icon_name": "app65",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app65",
+    //   "custom_app_title_bar_name": "app65",
+    //   "custom_app_development_status": "65"
+    // }, {
+    //   "custom_app_id": "66",
+    //   "custom_app_icon_name": "app66",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app66",
+    //   "custom_app_title_bar_name": "app66",
+    //   "custom_app_development_status": "66"
+    // }, {
+    //   "custom_app_id": "67",
+    //   "custom_app_icon_name": "app67",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app67",
+    //   "custom_app_title_bar_name": "app67",
+    //   "custom_app_development_status": "67"
+    // }, {
+    //   "custom_app_id": "68",
+    //   "custom_app_icon_name": "app68",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app68",
+    //   "custom_app_title_bar_name": "app68",
+    //   "custom_app_development_status": "68"
+    // }, {
+    //   "custom_app_id": "69",
+    //   "custom_app_icon_name": "app69",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app69",
+    //   "custom_app_title_bar_name": "app69",
+    //   "custom_app_development_status": "69"
+    // },
+    // {
+    //   "custom_app_id": "70",
+    //   "custom_app_icon_name": "app70",
+    //   "custom_app_icon_image": "Image File Name",
+    //   "custom_app_full_name": "app70",
+    //   "custom_app_title_bar_name": "app70",
+    //   "custom_app_development_status": "70"
+    // },
 
   ];
 
@@ -616,7 +616,7 @@ export class MobileSwiperAppComponent implements OnInit {
 
   ngOnInit () {
     let count: any = 1;
-    let mul = 30;
+    let mul = 28;
 
 
     // this.apps.forEach((t: AppsDetails) => {
@@ -749,7 +749,7 @@ export class MobileSwiperAppComponent implements OnInit {
 
         // console.log('false');
         this.test[i].parent_app = count;
-        mul = mul + 30;
+        mul = mul + 28;
       }
       // console.log(i + 1 <= mul, i, mul, count, this.test[i].parent_app);
 

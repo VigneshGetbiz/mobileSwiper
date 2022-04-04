@@ -6,6 +6,7 @@ import { MobileSwiperAppComponent } from './mobile-swiper-app.component';
 
 import { SwiperModule } from "swiper/angular";
 import { FormsModule } from '@angular/forms';
+import { SharedModule } from 'src/app/shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { FormsModule } from '@angular/forms';
     CommonModule,
     MobileSwiperAppRoutingModule,
     SwiperModule,
-    FormsModule
+    FormsModule,
+    SharedModule
   ]
 })
 export class MobileSwiperAppModule { }
