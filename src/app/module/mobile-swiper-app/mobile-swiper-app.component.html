@@ -1,6 +1,6 @@
 <main>
   <div class="p-1 h-screen">
-    <swiper class="h-full" #swiperRef [navigation]="true" (swiper)="log($event)" (afterInit)="logg($event)"
+    <swiper class="h-full" #swiperRef [navigation]="navigationStatus" (swiper)="log($event)" (afterInit)="logg($event)"
       (slideChange)="logs($event)" [slidesPerView]="1" [spaceBetween]="50" [breakpoints]="breakpoints"
       [scrollbar]="false" [loop]="false" [pagination]="pagination"
       (beforeTransitionStart)="beforeTransitionStart($event)">
@@ -35,7 +35,7 @@
 
 
 
-        <section class="p-2 grid grid-cols-4  place-content-start justify-items-center gt-md:gap-3 gap-2"
+        <section class="p-2 grid grid-cols-4  place-content-start justify-items-center  gt-md:gap-3 gap-2"
           id="slide-item">
           <ng-container *ngFor="let it of test">
             <!-- <div class="col-span-4 text-left">{{it.user_app_category_name}}</div> -->
